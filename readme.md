@@ -7,7 +7,7 @@ CogFlow is a command-line tool designed to simplify interactions with Amazon Cog
 To install CogFlow, use the following command:
 
 ```shell
-go install github.com/abakermi/cogflow/cmd/cogflow
+go install github.com/abakermi/cogflow
 ```
 
 ## Usage
